@@ -6,6 +6,7 @@ Designed and developed a responsive website for the ABC Learning Center using HT
 As the lead developer and designer, I was responsible for the end-to-end development of the ABC Learning Center website. This included designing the user interface, coding frontend components, integrating interactive elements, and ensuring cross-browser compatibility.
 
 **Technologies Used**
+
 -HTML
 
 -Bootstrap
